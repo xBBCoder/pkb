@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="0" id="1617363867kxoayvqw1x" name="Книги">
+   <node crypt="0" id="16173639473y26ww7q14" name="Поварнин С.И. Как читать книги. - Москва, «Книга», 1971">
+    <recordtable>
+     <record id="1617397696lch5vlw58y" name="50. Выписки и выдержки" author="Конспект параграфа" url="" tags="книги, картотека" ctime="20210402230816" dir="16173976961l64nbgr1p" file="text.html"/>
+     <record id="1617364117p5des7yppi" name="51. Увлечение карточками" author="Конспект параграфа" url="" tags="книги, картотека" ctime="20210402134837" dir="1617364117z8mheidlou" file="text.html"/>
+     <record id="16174818396gn5dksgu5" name="52. Конспект" author="" url="" tags="книги, конспекты" ctime="20210403223039" dir="1617481839j2mxagvat6" file="text.html"/>
+     <record id="1617483900f7mbfd8b5x" name="53. Свободный конспект" author="" url="" tags="книги, конспекты" ctime="20210403230500" dir="1617483900jciwicnvng" file="text.html"/>
+     <record id="1617485085weqtbl5fo0" name="54. Журнал чтения" author="" url="" tags="книги" ctime="20210403232445" dir="1617485085nsg37d9ydo" file="text.html"/>
+     <record id="1617526288pfz34h5p5b" name="55. Указатель по вопросу" author="Конспект из С.И.Поварнина" url="" tags="книги, тематический указатель, картотека, база знаний" ctime="20210404105128" dir="1617526288dd7vk93v43" file="text.html"/>
+     <record id="1617527311gwtj6np6ct" name="Заповеди читателя" author="С.И.Поварнин" url="" tags="книги, чтение, читатели, советы" ctime="20210404110831" dir="1617527311hbcpfl7q81" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="1617518708f9n6h49qsv" name="Заметки стоика оптимиста">
+   <node crypt="" id="1617518729b8p8lrfcvi" name="2020">
+    <recordtable>
+     <record id="1617519011a8n4vs0988" name="Гедонизм" author="Дмитрий Скоробогатов" url="https://zen.yandex.ru/media/stoic/gedonizm-5f549f9df7495128e4d275de" tags="гедонизм, философия, удовольствия, смысл жизни, мораль, этика, психология" ctime="20210404085011" dir="1617519011ntups6p4qa" file="text.html"/>
+     <record id="1617519650l43tx9ck1y" name="Гедонистическая адаптация" author="Дмитрий Скоробогатов" url="https://zen.yandex.ru/media/stoic/gedonisticheskaia-adaptaciia-5f55bc40f7495128e4377642" tags="гедонизм, психология, счастье, удовольствия" ctime="20210404090050" dir="1617519650wju1ntlkdu" file="text.html"/>
+     <record id="1617521573itcravawlz" name="Гедонистическая беговая дорожка" author="Дмитрий Скоробогатов" url="https://zen.yandex.ru/media/stoic/gedonisticheskaia-begovaia-dorojka-5f5700613b3fcc0674e8a00d" tags="гедонизм, психология, удовольствия, счастье" ctime="20210404093253" dir="1617521573u4lu2grijl" file="text.html"/>
+     <record id="1617523095ncsbhyqdcx" name="Эффект негативности" author="Дмитрий Скоробогатов" url="https://zen.yandex.ru/media/stoic/effekt-negativnosti-5f585b20904e9d1d7b01ed97" tags="негатив, психология, пессимизм" ctime="20210404095815" dir="1617523095jebcgufs5f" file="text.html"/>
+     <record id="1617529570mu8gilfo3v" name="Отрицание изобилия" author="Дмитрий Скоробогатов" url="https://zen.yandex.ru/media/stoic/otricanie-izobiliia-5f59ab3adeed59545a588bb0" tags="изобилие, негатив, пессимизм, психология, счастье" ctime="20210404114610" dir="1617529570gt7t37cgc1" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1617518739xnmicjc3l6" name="2021">
+    <recordtable>
+     <record id="1617523370ugjg93zgxv" name="Личная база знаний" author="Дмитрий Скоробогатов" url="https://zen.yandex.ru/media/stoic/lichnaia-baza-znanii-606798a6e0a09f1423d1708e" tags="книги, знания, самообразование, база знаний, личная база знаний, БЗ, ЛБЗ" ctime="20210404100250" dir="1617523370yo6jzwg4g6" file="text.html"/>
+     <record id="1617524722dbax9wrudt" name="Конспектирование прочитанного" author="Дмитрий Скоробогатов" url="https://zen.yandex.ru/media/stoic/konspektirovanie-prochitannogo-6068f36da649f87c911b345f" tags="книги, конспекты, самообразование" ctime="20210404102522" dir="1617524722e2bun3v47b" file="text.html"/>
+     <record id="16175304574poc3o6m03" name="&quot;Как читать книги&quot; С.И.Поварнина" author="Дмитрий Скоробогатов" url="" tags="книги, чтение" ctime="20210404182854" dir="1617530457z27fskuy5p" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+ </content>
+</root>
