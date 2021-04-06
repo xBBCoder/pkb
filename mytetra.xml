@@ -4,6 +4,12 @@
  <format version="1" subversion="2"/>
  <content>
   <node crypt="0" id="1617363867kxoayvqw1x" name="Книги">
+   <node crypt="" id="1617597449sju4or48qd" name="Беседы Эпиктета. - Москва, «Ладомир», 1997">
+    <recordtable>
+     <record id="1617598161ck9a5ydpnv" name="Возникновение стоицизма" author="Л.Маринович, Г.Кошеленко" url="" tags="стоицизм, ранняя Стоя, древняя Стоя, история, философия" ctime="20210405064921" dir="1617598161iundeb4zzu" file="text.html"/>
+     <record id="16176033392at4bc5p8m" name="Периодизация Стои" author="Л.Маринович, Г.Кошеленко" url="" tags="стоицизм, Стоя, история, философия, история философии" ctime="20210405081539" dir="1617603339sdnprn2uxr" file="text.html"/>
+    </recordtable>
+   </node>
    <node crypt="0" id="16173639473y26ww7q14" name="Поварнин С.И. Как читать книги. - Москва, «Книга», 1971">
     <recordtable>
      <record id="1617397696lch5vlw58y" name="50. Выписки и выдержки" author="Конспект параграфа" url="" tags="книги, картотека" ctime="20210402230816" dir="16173976961l64nbgr1p" file="text.html"/>
@@ -13,12 +19,6 @@
      <record id="1617485085weqtbl5fo0" name="54. Журнал чтения" author="" url="" tags="книги" ctime="20210403232445" dir="1617485085nsg37d9ydo" file="text.html"/>
      <record id="1617526288pfz34h5p5b" name="55. Указатель по вопросу" author="Конспект из С.И.Поварнина" url="" tags="книги, тематический указатель, картотека, база знаний" ctime="20210404105128" dir="1617526288dd7vk93v43" file="text.html"/>
      <record id="1617527311gwtj6np6ct" name="Заповеди читателя" author="С.И.Поварнин" url="" tags="книги, чтение, читатели, советы" ctime="20210404110831" dir="1617527311hbcpfl7q81" file="text.html"/>
-    </recordtable>
-   </node>
-   <node crypt="" id="1617597449sju4or48qd" name="Беседы Эпиктета. - Москва, «Ладомир», 1997">
-    <recordtable>
-     <record id="1617598161ck9a5ydpnv" name="Возникновение стоицизма" author="Л.Маринович, Г.Кошеленко" url="" tags="стоицизм, ранняя Стоя, древняя Стоя, история, философия" ctime="20210405064921" dir="1617598161iundeb4zzu" file="text.html"/>
-     <record id="16176033392at4bc5p8m" name="Периодизация Стои" author="Л.Маринович, Г.Кошеленко" url="" tags="стоицизм, Стоя, история, философия, история философии" ctime="20210405081539" dir="1617603339sdnprn2uxr" file="text.html"/>
     </recordtable>
    </node>
   </node>
@@ -40,6 +40,11 @@
      <record id="1617658376r8z6jx31dd" name="Аскеза" author="Дмитрий Скоробогатов" url="https://zen.yandex.ru/media/stoic/askeza-bez-religii-5f643345174f9a0e6d09a0e2" tags="аскеза, аскетизм, психология, стоицизм" ctime="20210405233256" dir="1617658376oanxpufkqj" file="text.html"/>
      <record id="1617658569jjxft5r003" name="Жизнь в согласии с природой" author="Дмитрий Скоробогатов" url="https://zen.yandex.ru/media/stoic/jizn-v-soglasii-s-prirodoi-5f65ad434c07ce060433c600" tags="природа, стоицизм, философия" ctime="20210405233609" dir="1617658569x7x2wdgu8b" file="text.html"/>
      <record id="1617658729n9mjmw8nyt" name="Благодарность" author="Дмитрий Скоробогатов" url="https://zen.yandex.ru/media/stoic/blagodarnost-i-ee-lechebnye-svoistva-5f66fa244c07ce0604801b8b" tags="благодарность, психология" ctime="20210405233849" dir="16176587294a99l1vaar" file="text.html"/>
+     <record id="16177009099vag5eal4f" name="Дневник благодарности" author="Дмитрий Скоробогатов" url="https://zen.yandex.ru/media/stoic/dnevnik-blagodarnosti-kak-ego-pravilno-gotovit-5f6826c6b142594c532308e7" tags="благодарность, дневник, психология, дневник благодарности" ctime="20210406112149" dir="16177009091bz3c30uay" file="text.html"/>
+     <record id="1617702436jg7jo5cl14" name="Стоический риск-менеджмент" author="Дмитрий Скоробогатов" url="https://zen.yandex.ru/media/stoic/stoicheskii-riskmenedjment-5f6973a13557c51afdd8357e" tags="стоицизм, Эпиктет, Симпликий" ctime="20210406114716" dir="1617702436kwr0zexdf4" file="text.html"/>
+     <record id="1617707523hlcylvw6xj" name="Субъективность восприятия" author="Дмитрий Скоробогатов" url="https://zen.yandex.ru/media/stoic/subektivnost-vospriiatiia-5f6ac5c1f42d42685a2bd352" tags="стоицизм, философия, восприятие, психология" ctime="20210406131203" dir="16177075237v00ogi281" file="text.html"/>
+     <record id="1617707738m586d2u0b0" name="Воспитанные и невоспитанные люди" author="Дмитрий Скоробогатов" url="https://zen.yandex.ru/media/stoic/vospitannye-i-nevospitannye-liudi-v-chem-raznica-5f6c1d5afa579a1b5de56baa" tags="стоицизм, философия, воспитание, Эпиктет" ctime="20210406131538" dir="1617707738hl2jgpwyyz" file="text.html"/>
+     <record id="1617708084k301x4o0mt" name="Упражнения души" author="Дмитрий Скоробогатов" url="https://zen.yandex.ru/media/stoic/uprajneniia-dushi-5f6d6ae13aa39e43aa4bc07d" tags="душа, духовные упражнения, стоицизм, Симпликий" ctime="20210406132124" dir="1617708084hpnh41l9m5" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1617518739xnmicjc3l6" name="2021">
