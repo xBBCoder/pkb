@@ -46,6 +46,7 @@
       <record id="162136525079x6bvv33b" name="3. Против тех, кто представляет кого-то философам" author="Конспект из Эпиктета" url="" tags="Эпиктет, философы, рекомендации, стоицизм, философия" ctime="20210518211411" dir="1621365250610r9cctop" file="text.html"/>
       <record id="1621457218670fj6cp1l" name="4. Против застигнутого однажды в прелюбодеянии" author="Конспект из Эпиктета" url="" tags="Эпиктет, перелюбодеяние, пороки, мораль, этика, стоицизм, философия" ctime="20210519224658" dir="162145721869ut2in4hq" file="text.html"/>
       <record id="1621893327s9hmr61cjx" name="5. Как сосуществует высокий образ мыслей и забота" author="Конспект из Эпиктета" url="" tags="Эпиктет, стоицизм, философия" ctime="20210524235527" dir="16218933276t1mlsio43" file="text.html"/>
+      <record id="1622065931l1w5wfgmcc" name="6. О безразличии" author="Конспект из Эпиктета" url="" tags="Эпиктет, стоицизм, философия, безразличие" ctime="20210526235211" dir="1622065931snr7wk7z18" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1618469774wu8n6f2i0g" name="Примечания">
@@ -60,6 +61,7 @@
       <record id="1621454533uppc905ear" name="Архедем из Тарса" author="" url="" tags="Архедем, стоики, история, философы" ctime="20210519220213" dir="1621454533dym3zxotbx" file="text.html"/>
       <record id="16183227871fiu7ewhai" name="Гай Гельвидий Приск Старший" author="" url="" tags="стоики, история, римский стоицизм" ctime="20210415085632" dir="16183227876j2ofclvfk" file="text.html"/>
       <record id="1618384640ya4kiwgoee" name="Гай Мусоний Руф" author="" url="" tags="Музоний Руф, стоики, стоицизм, история, философия, древняя история, римский стоицизм" ctime="20210415085705" dir="1618384640tbszlevg34" file="text.html"/>
+      <record id="1622068910cfo8g853q4" name="Гратилла" author="" url="" tags="стоики, истрия, Древний Рим" ctime="20210527004150" dir="1622068910gm88pk2bwg" file="text.html"/>
       <record id="1621312616xe186uv9pe" name="Диоген Вавилонский" author="" url="" tags="Диоген Вавилонский, стоики, философы, история" ctime="20210518063656" dir="162131261613bt7226ur" file="text.html"/>
       <record id="1619772876q2p4kpyp0u" name="Древняя Стоя" author="" url="" tags="Древняя Стоя, Стоя, стоицизм, история, история философии" ctime="20210430105436" dir="1619772876g8c4xyy3tq" file="text.html"/>
       <record id="1619771979ejhk41vklj" name="Зенон Китийский" author="" url="" tags="Зенон, стоики, история" ctime="20210430103939" dir="1619771979ccpuggwuoj" file="text.html"/>
@@ -224,6 +226,8 @@
      <record id="1621377315l761t57qg5" name="О рекомендации добродетельных" author="Дмитрий Скоробогатов" url="https://zen.yandex.ru/media/stoic/o-rekomendacii-dobrodetelnyh-60a43dbac76c0b76350409ff" tags="рекомендации, добродетельность, стоицизм, философия, Эпиктет" ctime="20210519003515" dir="1621377315iw8la1t52f" file="text.html"/>
      <record id="1621490126b8y0herny3" name="Эпиктет против прелюбодеев" author="Дмитрий Скоробогатов" url="https://zen.yandex.ru/media/stoic/epiktet-protiv-preliubodeev-60a59564ce404e36f4c6e8bf" tags="Эпиктет, прелюбодеяние, мораль, этика, стоицизм, философия" ctime="20210520075526" dir="1621490126que3xgavub" file="text.html"/>
      <record id="16219008492i3qzm1m69" name="Предметы и пользование ими" author="Дмитрий Скоробогатов" url="https://zen.yandex.ru/media/stoic/predmety-i-polzovanie-imi-60ac3a19d4bda376e77803bd" tags="Эпиктет, стоицизм, философия" ctime="20210525020049" dir="1621900849ua3td2e7im" file="text.html"/>
+     <record id="1622066056oc2vlbfenf" name="Хрисипп и предопределённость" author="Дмитрий Скоробогатов" url="https://zen.yandex.ru/media/stoic/hrisipp-i-predopredelennost-60ad7f8f9943417b3520cd13" tags="Хрисипп, предопределённость, стоицизм, философия" ctime="20210526235416" dir="1622066056zrat0pd3vl" file="text.html"/>
+     <record id="1622092750f8pe0v614d" name="Продовольствие для изгнанников" author="Дмитрий Скоробогатов" url="https://zen.yandex.ru/media/stoic/prodovolstvie-dlia-izgnannikov-60aee754b0524a5f65623407" tags="стоики, история, стоицизм, философия, Гратилла, Древний Рим" ctime="20210527071910" dir="1622092750k13y2ynlrh" file="text.html"/>
     </recordtable>
    </node>
   </node>
