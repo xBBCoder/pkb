@@ -4,6 +4,11 @@
  <format version="1" subversion="2"/>
  <content>
   <node crypt="0" id="1617363867kxoayvqw1x" name="Книги">
+   <node crypt="" id="1626263892e4dtxbm5hi" name="Shoham, Leyton-Brown. Multiagent Systems. 2009">
+    <recordtable>
+     <record id="1626263953rpxudyqw0s" name="Благодарности" author="Конспект текста от Yoav Shoham, Kevin Leyton-Brown" url="" tags="благодарности" ctime="20210714135913" dir="1626263953bmbgscxcuq" file="text.html"/>
+    </recordtable>
+   </node>
    <node crypt="" id="1617597449sju4or48qd" name="Беседы Эпиктета. - Москва, «Ладомир», 1997">
     <recordtable>
      <record id="1617598161ck9a5ydpnv" name="Возникновение стоицизма" author="Л.Маринович, Г.Кошеленко" url="" tags="стоицизм, ранняя Стоя, древняя Стоя, история, философия" ctime="20210405064921" dir="1617598161iundeb4zzu" file="text.html"/>
